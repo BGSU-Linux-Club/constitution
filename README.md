@@ -124,9 +124,9 @@ Amendments may be proposed by any single Member or Officer of Linux Club. Amendm
 
 This constitution is signed electronically via git commit signatues.
 
-| Name      | Title          | Date     | Commit |
-|-----------|----------------|----------|--------|
-| Ian Ressa | President      | 08/29/20 |        |
-|           | Vice President |          |        |
-|           | Treasurer      |          |        |
-|           | Project Lead   |          |        |
+| Name      | Title          | Date     | Commit  |
+|-----------|----------------|----------|---------|
+| Ian Ressa | President      | 08/29/20 | 8094a2465678393d18bba20ad111bf7e6f567955 |
+|           | Vice President |          |         |
+|           | Treasurer      |          |         |
+|           | Project Lead   |          |         |
