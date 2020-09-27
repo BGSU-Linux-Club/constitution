@@ -124,9 +124,9 @@ Amendments may be proposed by any single Member or Officer of Linux Club. Amendm
 
 This constitution is signed electronically via git commit signatues.
 
-| Name      | Title          | Date     | Commit  |
-|-----------|----------------|----------|---------|
-| Ian Ressa | President      | 08/29/20 | 8094a2465678393d18bba20ad111bf7e6f567955 |
-| Alex Scott| Vice President | 08/29/20 |         |
-|           | Treasurer      |          |         |
-|           | Project Lead   |          |         |
+| Name                  | Title          | Date     | Commit                                   | Note                      |
+|-----------------------|----------------|----------|------------------------------------------|---------------------------|
+| Ian Ressa             | President      | 08/29/20 | 8094a2465678393d18bba20ad111bf7e6f567955 |                           |
+| Alex Scott            | Vice President | 08/29/20 |                                          |                           |
+| Maxwell Paul Brickner | Treasurer      | 09/27/20 |                                          | Signed earlier off GitHub |
+|                       | Project Lead   |          |                                          |                           |
